@@ -10,7 +10,7 @@ En el siguiente repositorio puede encontrar 4 tipos de archivos
       - ModeloBalanceadoCategoriasDatasetCompras.xlsx (con base a clasificacion de texto del modelo model51TiendasTextSVC.pkl)
       - Ubicaciones.xlsx
       - Variables.xlsx
-  4. Separación de datos para preparacuón y pruebas para modelo de regresión
+  4. Separación de datos para preparación y pruebas para modelo de regresión
        - df_prep_seminario.csv
        - df_pruebas_seminario.csv
 

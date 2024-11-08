@@ -14,4 +14,4 @@ En el siguiente repositorio puede encontrar 4 tipos de archivos
        - df_prep_seminario.csv
        - df_pruebas_seminario.csv
 
-Nota: Los script del modelo de clasificación de texto y regresión estan en la dirección https://github.com/Gabriel93UdeA/Monografia_UdeA
+Nota: Los script del modelo de clasificación de texto y regresión estan en la dirección https://github.com/Gabriel93UdeA/Monografia_UdeA/tree/main/momentos_evaluativos

@@ -10,6 +10,9 @@ En el siguiente repositorio puede encontrar 4 tipos de archivos
       - Fechas.xlsx
       - Ubicaciones.xlsx
       - Variables.xlsx
-  4. Scripts Modelos - Notebooks
+  4. Notebooks creación de modelos
       - Modelo Clasificación.ipynb
-      - 
+      Modelos Regresión
+        -  GeneracionDFparaModelos Diario por Departamento.ipynb
+        -  Prediccion Series Diarias Con Ceros.ipynb
+        -  Prediccion Series Diarias Interpolado.ipynb

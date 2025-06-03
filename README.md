@@ -10,7 +10,7 @@ En el siguiente repositorio puede encontrar 4 tipos de archivos
       - Fechas.xlsx
       - Ubicaciones.xlsx
       - Variables.xlsx
-  4. Notebooks creación de modelos
+  4. Notebooks
       - Modelo Clasificación.ipynb
       
       Modelos Regresión

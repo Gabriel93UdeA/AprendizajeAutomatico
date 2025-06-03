@@ -12,6 +12,7 @@ En el siguiente repositorio puede encontrar 4 tipos de archivos
       - Variables.xlsx
   4. Notebooks creación de modelos
       - Modelo Clasificación.ipynb
+      
       Modelos Regresión
         -  GeneracionDFparaModelos Diario por Departamento.ipynb
         -  Prediccion Series Diarias Con Ceros.ipynb
